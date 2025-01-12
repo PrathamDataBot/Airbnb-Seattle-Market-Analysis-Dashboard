@@ -19,3 +19,6 @@ Bedroom Pricing Analysis: Price variations based on property size
 Data Analysis: Excel
 Visualization: Tableau
 Dataset: Airbnb Seattle Public Dataset
+
+#Dashboard
+![Dashboard 1](https://github.com/user-attachments/assets/6df714e6-bbf8-4599-b740-609b3a295abf)
